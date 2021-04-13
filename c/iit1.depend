@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1618242770 source:c:\iit1\iit1.c
+	"iit1.h"
+
+1588429624 c:\iit1\iit1.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<windows.h>
+	<conio.h>
+	<stdbool.h>
+
